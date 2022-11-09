@@ -1,0 +1,227 @@
+[
+    {
+     "id": "CI0001TE",
+     "Marca": "3M",
+     "Nombre": "Cinta aislante",
+     "Precio": 6000,
+     "Categoria": "Materiales",
+     "Descripcion": "Material auto-fusionable que crea un sello seguro contra la humedad.\nAislamiento eléctrico primario para empalme de cable de 600 V a 69 kV en todos los cables dieléctricos sólidos.\nClasificado para operar en temperaturas continuas de 90°C y temperaturas de sobrecarga de hasta 130°C.\nLiner removible durante la instalación.\nRetardante a la flama.",
+     "Stock": 10
+    },
+    {
+     "id": "CI0002AR",
+     "Marca": "3M",
+     "Nombre": "Cinta enmascarar",
+     "Precio": 6000,
+     "Categoria": "Materiales",
+     "Descripcion": "La fórmula adhesiva patentada, sin solventes, se quita en una sola pieza sin dejar residuos adhesivos.\nAdhesivo patentado por 3M que se adhiere de forma segura a la mayoría de las superficies, incluidas las superficies. de metal, hule, vidrio y plástico. Se remueve en una pieza fácilmente sin necesidad de disolventes.\nResiste el corrimiento de la pintura para crear líneas de pintura.\nTemperatura de uso máxima hasta 225ºF (107ºC) durante 30 minutos.\nLogra excelentes lineas de pintura.\nAdaptabilidad media-alta.",
+     "Stock": 10
+    },
+    {
+     "id": "TU0003CA",
+     "Marca": "Mundial de tornillos",
+     "Nombre": "Tuerca",
+     "Precio": 2500,
+     "Categoria": "Materiales",
+     "Descripcion": "Pieza mecánica con un orificio central, el cual presenta una rosca, que se utiliza para acoplar a un tornillo, en forma fija o deslizante. La tuerca permite sujetar y fijar uniones de elementos desmontables. \nEn ocasiones puede agregarse una arandela para que la unión cierre mejor y quede fija.",
+     "Stock": 1000
+    },
+    {
+     "id": "TO0004LO",
+     "Marca": "Mundial de tornillos",
+     "Nombre": "Tornillo",
+     "Precio": 2500,
+     "Categoria": "Materiales",
+     "Descripcion": "Pieza metálica que tiene como función unir dos o más elementos. Esta pieza está compuesta principalmente por tres partes: cabeza, cuello y rosca.",
+     "Stock": 1000
+    },
+    {
+     "id": "AR0005ELA",
+     "Marca": "Mundial de tornillos",
+     "Nombre": "Arandela",
+     "Precio": 2500,
+     "Categoria": "Materiales",
+     "Descripcion": "Pieza generalmente circular , fina y perforada , que se usa para mantener apretados una tuerca o un tornillo , asegurar el cierre hermético de una junta o evitar el roce entre dos piezas .",
+     "Stock": 1000
+    },
+    {
+     "id": "COP6000",
+     "Marca": "Proto",
+     "Nombre": "Juego de copas de 1\/2 y 1\/4",
+     "Precio": 160000,
+     "Categoria": "Ajuste",
+     "Descripcion": "Juego de copas cortas y largas de 1\/4 y 1\/2 en caja plastica de 101 pzas, con copas cortas de 1\/4 de 4 a 14 mm, copas largas de 1\/4 de 6 a 14 mm, con copas de 1\/2 de 8mm a 32mm, con copas largas de 1\/2 de 13 a 22 mm copas de 1\/4 con puntas de destornilllador, puntas para destornilllador, racthets de 1\/4 y 1\/2, extensiones, destornillador y juntas universales.",
+     "Stock": 4
+    },
+    {
+     "id": "LLA7000",
+     "Marca": "Proto",
+     "Nombre": "Juego de llaves mixtas",
+     "Precio": 112000,
+     "Categoria": "Ajuste",
+     "Descripcion": "Fabricadas de acero al cromo vanadio 2X más resistentes al desgaste que las de acero al carbono, Práctico estuche organizador, Tipo de llaves: Mixtas, Color: Plateado cromado. Incluye: 11 Llaves métricas: 6 mm, 8 mm, 9 mm, 10 mm, 11 mm, 12 mm, 13 mm, 14 mm, 15 mm, 17 mm y 19 mm, 11 Laves en pulgadas: 1\/4\", 5\/16\", 3\/8\", 7\/16\", 1\/2\", 9\/16\", 5\/8\", 11\/16\", 3\/4\", 13\/16\" y 7\/8\".",
+     "Stock": 4
+    },
+    {
+     "id": "LLA8000",
+     "Marca": "Proto",
+     "Nombre": "Juego de llaves acodadas",
+     "Precio": 112000,
+     "Categoria": "Ajuste",
+     "Descripcion": "Juego de Llaves de anillo x 8. Dimensiones. 6×7, 8×9, 10×11, 12×13, 14×15, 16×17, 18×19, 20×22.",
+     "Stock": 5
+    },
+    {
+     "id": "LLA9000",
+     "Marca": "Proto",
+     "Nombre": "Juego de llaves bristol",
+     "Precio": 89900,
+     "Categoria": "Ajuste",
+     "Descripcion": "Juego De 10 Llaves Bristol Organizador PRETUL Fabricadas en acero al carbono.\nAcabado pavonado para mayor resistencia al óxido.\nEmpaque: Blister.\nOrganizador plástico abatible con medidas.\nContenido: 1 Llave de 1\/16´´, 1 Llave de 5\/64´´, 1 Llave de 3\/32´´, 1 Llave de 1\/8´´, 1 Llave de 5\/32´´, 1 Llave de 3\/16´´, 1 Llave de 7\/32´´, 1 Llave de 1\/4´´, 1 Llave de 5\/16´´, 1 Llave de 3\/8´´",
+     "Stock": 6
+    },
+    {
+     "id": "LLA10000",
+     "Marca": "Proto",
+     "Nombre": "Juego de llaves torx ",
+     "Precio": 89900,
+     "Categoria": "Ajuste",
+     "Descripcion": "Fabricadas en acero cromo-vanadio ? Puntas con bisel para acople rápido ? Medidas: T9, T10, T15, T20, T25, T27, T30 y T40 Herramienta manual para uso profesional, Garantia de por vida util.",
+     "Stock": 6
+    },
+    {
+     "id": "RE1000",
+     "Marca": "DEWALT",
+     "Nombre": "Remachadora",
+     "Precio": 56900,
+     "Categoria": "Maquinaria",
+     "Descripcion": "Deal para fijar piezas metálicas. Incluye 60 remaches de distintas medidas.",
+     "Stock": 2
+    },
+    {
+     "id": "TA2000",
+     "Marca": "DEWALT",
+     "Nombre": "Taladro",
+     "Precio": 360000,
+     "Categoria": "Maquinaria",
+     "Descripcion": "Taladro PercutorPotente motor de 550WSelector de percusión o rotación. Mandril de 1\/2 (13mm)Barra de profundidad. Velocidad variable y reversaInterruptor con bloqueo para uso continuo. Juego de 13. Brocas 15555E Juego de Brocas: Brocas de calidad para hobbistas y profesionales en estuche plástico. Piezas metálicas de corte para orificios circulares en diversos materiales. Excelente calidad para diferentes superficies. Poseen la fuerza y el tamaño suficiente para todo tipo de trabajo.",
+     "Stock": 3
+    },
+    {
+     "id": "PU3000",
+     "Marca": "DEWALT",
+     "Nombre": "Pulidora",
+     "Precio": 299000,
+     "Categoria": "Maquinaria",
+     "Descripcion": "Versatilidad importante para pulir salientes o bordes, así como soltar remaches, redondear ángulos, cortar metales, etc. Por ello, la industria las requiere de manera permanente para varios procesos en los que involucre bruñido, afilado o bordeado de superficies.",
+     "Stock": 1
+    },
+    {
+     "id": "COM4000",
+     "Marca": "DEWALT",
+     "Nombre": "Compresor",
+     "Precio": 689000,
+     "Categoria": "Maquinaria",
+     "Descripcion": "Regulador de presión HIGH FLO. Motor universal de 120 Volts para trabajar aún con condiciones de bajo voltaje. Protección de sobrecarga. Tanque de 6 galones ideal para clavadoras, engrapadoras.  Bomba y motor de mayor duración Especificaciones técnicas:  Tamaño de Tanque: 25 Litros, Capacidad del estanque: 22.5 Litros, HP reales: 1.5, Amperaje: 15 Amp, SCFM a 40 psig: 3.7 CFM, SCFM a 90 psig: 2.6 CFM, Presión máxima: 150 PSI, Presión de re-arranque: 120 PSI, Peso de la herramienta: 15.5 kg.",
+     "Stock": 1
+    },
+    {
+     "id": "SOL5000",
+     "Marca": "DEWALT",
+     "Nombre": "Pistola de soldar",
+     "Precio": 44900,
+     "Categoria": "Maquinaria",
+     "Descripcion": "Pistola de soldadura aislada doble, 100W calor instantáneo. La punta alcanza la temperatura completa de trabajo en solo segundos. Su peso ligero y un diseño de pistola equilibrado es adecuado para trabajos de soldadura rapida. La cubierta de plástico es 100% resistente al impacto. Viene con una luz de trabajo conjunta de soldadura incorporada. Temp. punta: 300 °C aprox. Potencia: 100W. Voltaje: 120V. Corriente: 50-60hz. UL certificado.",
+     "Stock": 7
+    },
+    {
+     "id": "TOR100",
+     "Marca": "Stanley",
+     "Nombre": "Torquimetro",
+     "Precio": 998000,
+     "Categoria": "Medición",
+     "Descripcion": "Elemento que se usa para medir la tensión en tuercas y tornillos en los cuales es importante una tensión específica. Están diseñados y ensamblados por un tipo de llave de tubo y un sistema interno que se encarga de iniciar la lectura de torque.",
+     "Stock": 3
+    },
+    {
+     "id": "FLEX200",
+     "Marca": "Stanley",
+     "Nombre": "Flexómetro",
+     "Precio": 50000,
+     "Categoria": "Medición",
+     "Descripcion": "Cinta métrica con botón de tranca. gancho cero absoluto permite mayor precisión. gancho grande de doble extremo para mejor enganche y máxima versatilidad al medir. resorte tratado a calor para una vida útil mayor. cinta recubierta con nylon extruido caja abs de alto impacto con cubierta de goma, ofrece un agarre estable y antideslizante, y resistencia a los escala clase ii mide con precisión todas las veces incluye clip para cinturón, que facilita el transporte y evita la pérdida de la cinta métrica.",
+     "Stock": 3
+    },
+    {
+     "id": "MICRO300",
+     "Marca": "Steren",
+     "Nombre": "Micrometro",
+     "Precio": 1200000,
+     "Categoria": "Medición",
+     "Descripcion": "Se utiliza para realizar medidas de precisión. Su nombre deriva etimológicamente de las palabras griegas μικρο (micros, pequeño) y μετρoν (metron, medición).",
+     "Stock": 2
+    },
+    {
+     "id": "CAL400",
+     "Marca": "Steren",
+     "Nombre": "Calibrador vernier",
+     "Precio": 1500000,
+     "Categoria": "Medición",
+     "Descripcion": "El pie de rey digital consta de una regla con una escuadra en un extremo, sobre la cual se desliza otra escuadra destinada a indicar la medida en una escala. Este pie de rey digital permite apreciar longitudes de 1\/10, 1\/20 y 1\/50 de milímetro utilizando el nonio.",
+     "Stock": 1
+    },
+    {
+     "id": "NB500",
+     "Marca": "Stanley",
+     "Nombre": "Niveles de burbuja",
+     "Precio": 79900,
+     "Categoria": "Medición",
+     "Descripcion": "Aparato para medir la horizontalidad o verticalidad de un elemento, cuando se tenga que colocar cuadros, estanterías, barras de cortinas o cualquier otro objeto que tenga que estar recto en la pared.",
+     "Stock": 15
+    },
+    {
+     "id": "TRELLA1",
+     "Marca": "Stanley",
+     "Nombre": "Destornillador de estrella",
+     "Precio": 69900,
+     "Categoria": "Manuales",
+     "Descripcion": "Los destornilladores Phillips, o también llamados destornilladores estrella, son aquellos que tienen la punta en forma de cruz y son de mayor profundidad en el centro que en los extremos. Un destornillador es una herramienta utilizada para apretar y aflojar tornillos cuya cabeza coincide con la forma de su punta.",
+     "Stock": 20
+    },
+    {
+     "id": "PLAN2",
+     "Marca": "Stanley",
+     "Nombre": "Destornillador de plano",
+     "Precio": 69900,
+     "Categoria": "Manuales",
+     "Descripcion": "Es una herramienta manual que está compuesta por un mango de plástico aislante y una barra de metal acabada en punta, en cuyo extremo se coloca un tornillo. Se utiliza para apretar y aflojar tornillos que no requieran mucha fuerza.",
+     "Stock": 20
+    },
+    {
+     "id": "TES3",
+     "Marca": "Proto",
+     "Nombre": "Alicates",
+     "Precio": 39900,
+     "Categoria": "Manuales",
+     "Descripcion": "Cuerpo forjado. Con recubrimiento anti-corrosión. Quijadas maquinadas para mejor agarre. Mangos recubiertos con doble plastisol anti-deslizante. Fabricados en acero Cromo Níquel para mayor durabilidad y mejor superficie de corte.",
+     "Stock": 20
+    },
+    {
+     "id": "PINTA4",
+     "Marca": "Proto",
+     "Nombre": "Pinzas en punta",
+     "Precio": 39900,
+     "Categoria": "Manuales",
+     "Descripcion": "Cuerpo forjado en acero especial y templado. El acero carbono especial empleado en la fabricación del producto, aliado al temple especial en el hilo de corte garantizan mayor resistência. Acabado fosfatado. Cabeza y articulación pulidas. Temple especial en el hilo de corte y mandíbulas. Apertura suave para facilitar el trabajo. Los mangos poseen una forma ergonômica para aumentar el confort. Producto aislado 1.000 V Indicado para trabajos en baja tensión, hasta 1.000 V en corriente alternada. Las herramientas son producidas y testadas bajo normas específicas.",
+     "Stock": 20
+    },
+    {
+     "id": "ILLO5",
+     "Marca": "Proto",
+     "Nombre": "Martillo",
+     "Precio": 29900,
+     "Categoria": "Manuales",
+     "Descripcion": "Herramientas de Golpe Martillo de Bola 16 oz Peso Cabeza (454 g). Cabeza completamente pulida.\nLa cabeza del martillo está fija con 2 cuñas para más durabilidad.\nMango 25% más largo en los tamaños 16-40 ozs para mejor equilibrio y control. ",
+     "Stock": 10
+    }
+]     
