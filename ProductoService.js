@@ -20,24 +20,18 @@ const productosDelete = (id)=>{
 }
 
 const productosGetId = (id) =>{
-    let productos = productos.find(
+    let producto = productos.find(
         (elemento)=>{
-            return elemento.id=== id
+            return elemento._id === id
         }
     )
-    return productos
+    return producto
 }
 
-const productosCarrito = (nombre, idproducto)=>{
+const productosCarrito = (stock, idProducto)=>{
     for(let i = 0; i < productos.length; i++){
-        if(idproducto === productos[i].id){
-            for (let iproducto = 0; iproducto<productos[i].nombre.length; iproducto++){
-                for (let j = 0; j < nombre.length; j++){
-                    if(productos[i].nombre[iproducto].categoria === nombre[j].catergoria){
-                        productos[i].nombre[iproducto].nombre -= nombre[j].nombre
-                    }
-                }
-            } 
+        if(idProducto === productos[i]._id){
+            productos[i].Stock -= stock[0].Stock
             i=productos.length      
         }
     }

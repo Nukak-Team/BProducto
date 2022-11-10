@@ -67,10 +67,10 @@ app.get(pathName+"/id",
 app.patch(pathName+"/nombre",
     (req, res)=>{
         console.log("Producto en Carrito")
-        console.log(req.body)
         id = req.query.id
-        res.send(productoService.productoCarritoExport(req.body,id))
-    }
+        let productos = productoService.productoCarritoExport(req.body,id)
+        res.send("Finaliza")
+    }   
 )
 
 app.listen(port,

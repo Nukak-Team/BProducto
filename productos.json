@@ -1,24 +1,24 @@
 [
     {
-     "id": "CI0001TE",
+     "_id": "CI0001TE",
      "Marca": "3M",
      "Nombre": "Cinta aislante",
      "Precio": 6000,
      "Categoria": "Materiales",
-     "Descripcion": "Material auto-fusionable que crea un sello seguro contra la humedad.\nAislamiento eléctrico primario para empalme de cable de 600 V a 69 kV en todos los cables dieléctricos sólidos.\nClasificado para operar en temperaturas continuas de 90°C y temperaturas de sobrecarga de hasta 130°C.\nLiner removible durante la instalación.\nRetardante a la flama.",
+     "Descripcion": "Material auto-fusionable que crea un sello seguro contra la humedad.\nAislamiento eléctrico primario para empalme de cable de 600 V a 69 kV en todos los cables dieléctricos sól_idos.\nClasificado para operar en temperaturas continuas de 90°C y temperaturas de sobrecarga de hasta 130°C.\nLiner removible durante la instalación.\nRetardante a la flama.",
      "Stock": 10
     },
     {
-     "id": "CI0002AR",
+     "_id": "CI0002AR",
      "Marca": "3M",
      "Nombre": "Cinta enmascarar",
      "Precio": 6000,
      "Categoria": "Materiales",
-     "Descripcion": "La fórmula adhesiva patentada, sin solventes, se quita en una sola pieza sin dejar residuos adhesivos.\nAdhesivo patentado por 3M que se adhiere de forma segura a la mayoría de las superficies, incluidas las superficies. de metal, hule, vidrio y plástico. Se remueve en una pieza fácilmente sin necesidad de disolventes.\nResiste el corrimiento de la pintura para crear líneas de pintura.\nTemperatura de uso máxima hasta 225ºF (107ºC) durante 30 minutos.\nLogra excelentes lineas de pintura.\nAdaptabilidad media-alta.",
+     "Descripcion": "La fórmula adhesiva patentada, sin solventes, se quita en una sola pieza sin dejar res_iduos adhesivos.\nAdhesivo patentado por 3M que se adhiere de forma segura a la mayoría de las superficies, inclu_idas las superficies. de metal, hule, v_idrio y plástico. Se remueve en una pieza fácilmente sin neces_idad de disolventes.\nResiste el corrimiento de la pintura para crear líneas de pintura.\nTemperatura de uso máxima hasta 225ºF (107ºC) durante 30 minutos.\nLogra excelentes lineas de pintura.\nAdaptabil_idad media-alta.",
      "Stock": 10
     },
     {
-     "id": "TU0003CA",
+     "_id": "TU0003CA",
      "Marca": "Mundial de tornillos",
      "Nombre": "Tuerca",
      "Precio": 2500,
@@ -27,7 +27,7 @@
      "Stock": 1000
     },
     {
-     "id": "TO0004LO",
+     "_id": "TO0004LO",
      "Marca": "Mundial de tornillos",
      "Nombre": "Tornillo",
      "Precio": 2500,
@@ -36,7 +36,7 @@
      "Stock": 1000
     },
     {
-     "id": "AR0005ELA",
+     "_id": "AR0005ELA",
      "Marca": "Mundial de tornillos",
      "Nombre": "Arandela",
      "Precio": 2500,
@@ -45,7 +45,7 @@
      "Stock": 1000
     },
     {
-     "id": "COP6000",
+     "_id": "COP6000",
      "Marca": "Proto",
      "Nombre": "Juego de copas de 1\/2 y 1\/4",
      "Precio": 160000,
@@ -54,7 +54,7 @@
      "Stock": 4
     },
     {
-     "id": "LLA7000",
+     "_id": "LLA7000",
      "Marca": "Proto",
      "Nombre": "Juego de llaves mixtas",
      "Precio": 112000,
@@ -63,7 +63,7 @@
      "Stock": 4
     },
     {
-     "id": "LLA8000",
+     "_id": "LLA8000",
      "Marca": "Proto",
      "Nombre": "Juego de llaves acodadas",
      "Precio": 112000,
@@ -72,70 +72,70 @@
      "Stock": 5
     },
     {
-     "id": "LLA9000",
+     "_id": "LLA9000",
      "Marca": "Proto",
      "Nombre": "Juego de llaves bristol",
      "Precio": 89900,
      "Categoria": "Ajuste",
-     "Descripcion": "Juego De 10 Llaves Bristol Organizador PRETUL Fabricadas en acero al carbono.\nAcabado pavonado para mayor resistencia al óxido.\nEmpaque: Blister.\nOrganizador plástico abatible con medidas.\nContenido: 1 Llave de 1\/16´´, 1 Llave de 5\/64´´, 1 Llave de 3\/32´´, 1 Llave de 1\/8´´, 1 Llave de 5\/32´´, 1 Llave de 3\/16´´, 1 Llave de 7\/32´´, 1 Llave de 1\/4´´, 1 Llave de 5\/16´´, 1 Llave de 3\/8´´",
+     "Descripcion": "Juego De 10 Llaves Bristol Organizador PRETUL Fabricadas en acero al carbono.\nAcabado pavonado para mayor resistencia al óx_ido.\nEmpaque: Blister.\nOrganizador plástico abatible con med_idas.\nConten_ido: 1 Llave de 1\/16´´, 1 Llave de 5\/64´´, 1 Llave de 3\/32´´, 1 Llave de 1\/8´´, 1 Llave de 5\/32´´, 1 Llave de 3\/16´´, 1 Llave de 7\/32´´, 1 Llave de 1\/4´´, 1 Llave de 5\/16´´, 1 Llave de 3\/8´´",
      "Stock": 6
     },
     {
-     "id": "LLA10000",
+     "_id": "LLA10000",
      "Marca": "Proto",
      "Nombre": "Juego de llaves torx ",
      "Precio": 89900,
      "Categoria": "Ajuste",
-     "Descripcion": "Fabricadas en acero cromo-vanadio ? Puntas con bisel para acople rápido ? Medidas: T9, T10, T15, T20, T25, T27, T30 y T40 Herramienta manual para uso profesional, Garantia de por vida util.",
+     "Descripcion": "Fabricadas en acero cromo-vanadio ? Puntas con bisel para acople ráp_ido ? Med_idas: T9, T10, T15, T20, T25, T27, T30 y T40 Herramienta manual para uso profesional, Garantia de por v_ida util.",
      "Stock": 6
     },
     {
-     "id": "RE1000",
+     "_id": "RE1000",
      "Marca": "DEWALT",
      "Nombre": "Remachadora",
      "Precio": 56900,
      "Categoria": "Maquinaria",
-     "Descripcion": "Deal para fijar piezas metálicas. Incluye 60 remaches de distintas medidas.",
+     "Descripcion": "Deal para fijar piezas metálicas. Incluye 60 remaches de distintas med_idas.",
      "Stock": 2
     },
     {
-     "id": "TA2000",
+     "_id": "TA2000",
      "Marca": "DEWALT",
      "Nombre": "Taladro",
      "Precio": 360000,
      "Categoria": "Maquinaria",
-     "Descripcion": "Taladro PercutorPotente motor de 550WSelector de percusión o rotación. Mandril de 1\/2 (13mm)Barra de profundidad. Velocidad variable y reversaInterruptor con bloqueo para uso continuo. Juego de 13. Brocas 15555E Juego de Brocas: Brocas de calidad para hobbistas y profesionales en estuche plástico. Piezas metálicas de corte para orificios circulares en diversos materiales. Excelente calidad para diferentes superficies. Poseen la fuerza y el tamaño suficiente para todo tipo de trabajo.",
+     "Descripcion": "Taladro PercutorPotente motor de 550WSelector de percusión o rotación. Mandril de 1\/2 (13mm)Barra de profund_idad. Veloc_idad variable y reversaInterruptor con bloqueo para uso continuo. Juego de 13. Brocas 15555E Juego de Brocas: Brocas de cal_idad para hobbistas y profesionales en estuche plástico. Piezas metálicas de corte para orificios circulares en diversos materiales. Excelente cal_idad para diferentes superficies. Poseen la fuerza y el tamaño suficiente para todo tipo de trabajo.",
      "Stock": 3
     },
     {
-     "id": "PU3000",
+     "_id": "PU3000",
      "Marca": "DEWALT",
-     "Nombre": "Pulidora",
+     "Nombre": "Pul_idora",
      "Precio": 299000,
      "Categoria": "Maquinaria",
-     "Descripcion": "Versatilidad importante para pulir salientes o bordes, así como soltar remaches, redondear ángulos, cortar metales, etc. Por ello, la industria las requiere de manera permanente para varios procesos en los que involucre bruñido, afilado o bordeado de superficies.",
+     "Descripcion": "Versatil_idad importante para pulir salientes o bordes, así como soltar remaches, redondear ángulos, cortar metales, etc. Por ello, la industria las requiere de manera permanente para varios procesos en los que involucre bruñ_ido, afilado o bordeado de superficies.",
      "Stock": 1
     },
     {
-     "id": "COM4000",
+     "_id": "COM4000",
      "Marca": "DEWALT",
      "Nombre": "Compresor",
      "Precio": 689000,
      "Categoria": "Maquinaria",
-     "Descripcion": "Regulador de presión HIGH FLO. Motor universal de 120 Volts para trabajar aún con condiciones de bajo voltaje. Protección de sobrecarga. Tanque de 6 galones ideal para clavadoras, engrapadoras.  Bomba y motor de mayor duración Especificaciones técnicas:  Tamaño de Tanque: 25 Litros, Capacidad del estanque: 22.5 Litros, HP reales: 1.5, Amperaje: 15 Amp, SCFM a 40 psig: 3.7 CFM, SCFM a 90 psig: 2.6 CFM, Presión máxima: 150 PSI, Presión de re-arranque: 120 PSI, Peso de la herramienta: 15.5 kg.",
+     "Descripcion": "Regulador de presión HIGH FLO. Motor universal de 120 Volts para trabajar aún con condiciones de bajo voltaje. Protección de sobrecarga. Tanque de 6 galones _ideal para clavadoras, engrapadoras.  Bomba y motor de mayor duración Especificaciones técnicas:  Tamaño de Tanque: 25 Litros, Capac_idad del estanque: 22.5 Litros, HP reales: 1.5, Amperaje: 15 Amp, SCFM a 40 psig: 3.7 CFM, SCFM a 90 psig: 2.6 CFM, Presión máxima: 150 PSI, Presión de re-arranque: 120 PSI, Peso de la herramienta: 15.5 kg.",
      "Stock": 1
     },
     {
-     "id": "SOL5000",
+     "_id": "SOL5000",
      "Marca": "DEWALT",
      "Nombre": "Pistola de soldar",
      "Precio": 44900,
      "Categoria": "Maquinaria",
-     "Descripcion": "Pistola de soldadura aislada doble, 100W calor instantáneo. La punta alcanza la temperatura completa de trabajo en solo segundos. Su peso ligero y un diseño de pistola equilibrado es adecuado para trabajos de soldadura rapida. La cubierta de plástico es 100% resistente al impacto. Viene con una luz de trabajo conjunta de soldadura incorporada. Temp. punta: 300 °C aprox. Potencia: 100W. Voltaje: 120V. Corriente: 50-60hz. UL certificado.",
+     "Descripcion": "Pistola de soldadura aislada doble, 100W calor instantáneo. La punta alcanza la temperatura completa de trabajo en solo segundos. Su peso ligero y un diseño de pistola equilibrado es adecuado para trabajos de soldadura rap_ida. La cubierta de plástico es 100% resistente al impacto. Viene con una luz de trabajo conjunta de soldadura incorporada. Temp. punta: 300 °C aprox. Potencia: 100W. Voltaje: 120V. Corriente: 50-60hz. UL certificado.",
      "Stock": 7
     },
     {
-     "id": "TOR100",
+     "_id": "TOR100",
      "Marca": "Stanley",
      "Nombre": "Torquimetro",
      "Precio": 998000,
@@ -144,52 +144,52 @@
      "Stock": 3
     },
     {
-     "id": "FLEX200",
+     "_id": "FLEX200",
      "Marca": "Stanley",
      "Nombre": "Flexómetro",
      "Precio": 50000,
      "Categoria": "Medición",
-     "Descripcion": "Cinta métrica con botón de tranca. gancho cero absoluto permite mayor precisión. gancho grande de doble extremo para mejor enganche y máxima versatilidad al medir. resorte tratado a calor para una vida útil mayor. cinta recubierta con nylon extruido caja abs de alto impacto con cubierta de goma, ofrece un agarre estable y antideslizante, y resistencia a los escala clase ii mide con precisión todas las veces incluye clip para cinturón, que facilita el transporte y evita la pérdida de la cinta métrica.",
+     "Descripcion": "Cinta métrica con botón de tranca. gancho cero absoluto permite mayor precisión. gancho grande de doble extremo para mejor enganche y máxima versatil_idad al medir. resorte tratado a calor para una v_ida útil mayor. cinta recubierta con nylon extru_ido caja abs de alto impacto con cubierta de goma, ofrece un agarre estable y ant_ideslizante, y resistencia a los escala clase ii m_ide con precisión todas las veces incluye clip para cinturón, que facilita el transporte y evita la pérd_ida de la cinta métrica.",
      "Stock": 3
     },
     {
-     "id": "MICRO300",
+     "_id": "MICRO300",
      "Marca": "Steren",
      "Nombre": "Micrometro",
      "Precio": 1200000,
      "Categoria": "Medición",
-     "Descripcion": "Se utiliza para realizar medidas de precisión. Su nombre deriva etimológicamente de las palabras griegas μικρο (micros, pequeño) y μετρoν (metron, medición).",
+     "Descripcion": "Se utiliza para realizar med_idas de precisión. Su nombre deriva etimológicamente de las palabras griegas μικρο (micros, pequeño) y μετρoν (metron, medición).",
      "Stock": 2
     },
     {
-     "id": "CAL400",
+     "_id": "CAL400",
      "Marca": "Steren",
      "Nombre": "Calibrador vernier",
      "Precio": 1500000,
      "Categoria": "Medición",
-     "Descripcion": "El pie de rey digital consta de una regla con una escuadra en un extremo, sobre la cual se desliza otra escuadra destinada a indicar la medida en una escala. Este pie de rey digital permite apreciar longitudes de 1\/10, 1\/20 y 1\/50 de milímetro utilizando el nonio.",
+     "Descripcion": "El pie de rey digital consta de una regla con una escuadra en un extremo, sobre la cual se desliza otra escuadra destinada a indicar la med_ida en una escala. Este pie de rey digital permite apreciar longitudes de 1\/10, 1\/20 y 1\/50 de milímetro utilizando el nonio.",
      "Stock": 1
     },
     {
-     "id": "NB500",
+     "_id": "NB500",
      "Marca": "Stanley",
      "Nombre": "Niveles de burbuja",
      "Precio": 79900,
      "Categoria": "Medición",
-     "Descripcion": "Aparato para medir la horizontalidad o verticalidad de un elemento, cuando se tenga que colocar cuadros, estanterías, barras de cortinas o cualquier otro objeto que tenga que estar recto en la pared.",
+     "Descripcion": "Aparato para medir la horizontal_idad o vertical_idad de un elemento, cuando se tenga que colocar cuadros, estanterías, barras de cortinas o cualquier otro objeto que tenga que estar recto en la pared.",
      "Stock": 15
     },
     {
-     "id": "TRELLA1",
+     "_id": "TRELLA1",
      "Marca": "Stanley",
      "Nombre": "Destornillador de estrella",
      "Precio": 69900,
      "Categoria": "Manuales",
-     "Descripcion": "Los destornilladores Phillips, o también llamados destornilladores estrella, son aquellos que tienen la punta en forma de cruz y son de mayor profundidad en el centro que en los extremos. Un destornillador es una herramienta utilizada para apretar y aflojar tornillos cuya cabeza coincide con la forma de su punta.",
+     "Descripcion": "Los destornilladores Phillips, o también llamados destornilladores estrella, son aquellos que tienen la punta en forma de cruz y son de mayor profund_idad en el centro que en los extremos. Un destornillador es una herramienta utilizada para apretar y aflojar tornillos cuya cabeza coinc_ide con la forma de su punta.",
      "Stock": 20
     },
     {
-     "id": "PLAN2",
+     "_id": "PLAN2",
      "Marca": "Stanley",
      "Nombre": "Destornillador de plano",
      "Precio": 69900,
@@ -198,30 +198,30 @@
      "Stock": 20
     },
     {
-     "id": "TES3",
+     "_id": "TES3",
      "Marca": "Proto",
      "Nombre": "Alicates",
      "Precio": 39900,
      "Categoria": "Manuales",
-     "Descripcion": "Cuerpo forjado. Con recubrimiento anti-corrosión. Quijadas maquinadas para mejor agarre. Mangos recubiertos con doble plastisol anti-deslizante. Fabricados en acero Cromo Níquel para mayor durabilidad y mejor superficie de corte.",
+     "Descripcion": "Cuerpo forjado. Con recubrimiento anti-corrosión. Quijadas maquinadas para mejor agarre. Mangos recubiertos con doble plastisol anti-deslizante. Fabricados en acero Cromo Níquel para mayor durabil_idad y mejor superficie de corte.",
      "Stock": 20
     },
     {
-     "id": "PINTA4",
+     "_id": "PINTA4",
      "Marca": "Proto",
      "Nombre": "Pinzas en punta",
      "Precio": 39900,
      "Categoria": "Manuales",
-     "Descripcion": "Cuerpo forjado en acero especial y templado. El acero carbono especial empleado en la fabricación del producto, aliado al temple especial en el hilo de corte garantizan mayor resistência. Acabado fosfatado. Cabeza y articulación pulidas. Temple especial en el hilo de corte y mandíbulas. Apertura suave para facilitar el trabajo. Los mangos poseen una forma ergonômica para aumentar el confort. Producto aislado 1.000 V Indicado para trabajos en baja tensión, hasta 1.000 V en corriente alternada. Las herramientas son producidas y testadas bajo normas específicas.",
+     "Descripcion": "Cuerpo forjado en acero especial y templado. El acero carbono especial empleado en la fabricación del producto, aliado al temple especial en el hilo de corte garantizan mayor resistência. Acabado fosfatado. Cabeza y articulación pul_idas. Temple especial en el hilo de corte y mandíbulas. Apertura suave para facilitar el trabajo. Los mangos poseen una forma ergonômica para aumentar el confort. Producto aislado 1.000 V Indicado para trabajos en baja tensión, hasta 1.000 V en corriente alternada. Las herramientas son produc_idas y testadas bajo normas específicas.",
      "Stock": 20
     },
     {
-     "id": "ILLO5",
+     "_id": "ILLO5",
      "Marca": "Proto",
      "Nombre": "Martillo",
      "Precio": 29900,
      "Categoria": "Manuales",
-     "Descripcion": "Herramientas de Golpe Martillo de Bola 16 oz Peso Cabeza (454 g). Cabeza completamente pulida.\nLa cabeza del martillo está fija con 2 cuñas para más durabilidad.\nMango 25% más largo en los tamaños 16-40 ozs para mejor equilibrio y control. ",
+     "Descripcion": "Herramientas de Golpe Martillo de Bola 16 oz Peso Cabeza (454 g). Cabeza completamente pul_ida.\nLa cabeza del martillo está fija con 2 cuñas para más durabil_idad.\nMango 25% más largo en los tamaños 16-40 ozs para mejor equilibrio y control. ",
      "Stock": 10
     }
 ]     
