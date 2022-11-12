@@ -6,7 +6,7 @@
      "Precio": 6000,
      "Categoria": "Materiales",
      "Descripcion": "Material auto-fusionable que crea un sello seguro contra la humedad.\nAislamiento eléctrico primario para empalme de cable de 600 V a 69 kV en todos los cables dieléctricos sól_idos.\nClasificado para operar en temperaturas continuas de 90°C y temperaturas de sobrecarga de hasta 130°C.\nLiner removible durante la instalación.\nRetardante a la flama.",
-     "Stock": 10
+     "Stock": 0
     },
     {
      "_id": "CI0002AR",
@@ -15,7 +15,7 @@
      "Precio": 6000,
      "Categoria": "Materiales",
      "Descripcion": "La fórmula adhesiva patentada, sin solventes, se quita en una sola pieza sin dejar res_iduos adhesivos.\nAdhesivo patentado por 3M que se adhiere de forma segura a la mayoría de las superficies, inclu_idas las superficies. de metal, hule, v_idrio y plástico. Se remueve en una pieza fácilmente sin neces_idad de disolventes.\nResiste el corrimiento de la pintura para crear líneas de pintura.\nTemperatura de uso máxima hasta 225ºF (107ºC) durante 30 minutos.\nLogra excelentes lineas de pintura.\nAdaptabil_idad media-alta.",
-     "Stock": 10
+     "Stock": 0
     },
     {
      "_id": "TU0003CA",
@@ -222,6 +222,6 @@
      "Precio": 29900,
      "Categoria": "Manuales",
      "Descripcion": "Herramientas de Golpe Martillo de Bola 16 oz Peso Cabeza (454 g). Cabeza completamente pul_ida.\nLa cabeza del martillo está fija con 2 cuñas para más durabil_idad.\nMango 25% más largo en los tamaños 16-40 ozs para mejor equilibrio y control. ",
-     "Stock": 10
+     "Stock": 50
     }
 ]     
