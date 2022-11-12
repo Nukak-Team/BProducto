@@ -78,6 +78,8 @@ const UpdateProducto = (stock, idProducto)=>{
             }
             if(stock[0].Precio != ""){
                 productos[i].Precio = stock[0].Precio
+            }else if(stock[0].Precio === 0){
+                productos[i].Precio = 0
             }
             if(stock[0].Categoria != ""){
                 productos[i].Categoria = stock[0].Categoria
@@ -87,6 +89,10 @@ const UpdateProducto = (stock, idProducto)=>{
             }
             if(stock[0].Stock != ""){
                 productos[i].Stock = stock[0].Stock
+                console.log("---------------- as --------------");
+                console.log(productos[i].Stock);
+            }else if(stock[0].Stock === 0){
+                productos[i].Stock = 0
             }
             i=productos.length     
         }
