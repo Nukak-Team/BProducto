@@ -15,37 +15,37 @@ const pathName = "/productos"
 // ***************** GET *****************
 
 app.get(pathName,
-    (req, res)=>{
+    async (req, res)=>{
         console.log("Recibimos petición")
-        //console.log(req)
-        res.send(productoService.productosGetExport())
+        let id = req.query.id
+        res.send(await productoService.productosGetExport(id))
     }
 )
 
 app.get(pathName+"/id",
-    (req, res)=>{
+    async (req, res)=>{
         console.log("Recibimos petición")
         let id = req.query.id
         console.log(id)
-        res.send(productoService.productosGetIdExport(id))
+        res.send(await productoService.productosGetIdExport(id))
     }
 )
 
 app.get(pathName+"/existencias",
-    (req, res)=>{
+    async (req, res)=>{
         console.log("Recibimos petición")
         //console.log(req)
-        res.send(productoService.productosGetExistentesExport())
+        res.send(await productoService.productosGetExistentesExport())
     }
 )
 
 // ***************** POST *****************
 
 app.post(pathName,
-    (req, res)=>{
+    async (req, res)=>{
         console.log("Recibimos petición")
         console.log(req.body)
-        let productos = productoService.productosSetExport(req.body)
+        let productos = await productoService.productosSetExport(req.body)
         res.send({"mensaje":"Producto Guardado","productos": productos})
     }
 )
@@ -83,22 +83,32 @@ app.patch(pathName,
 )
 
 app.patch(pathName+"/nombre",
-    (req, res)=>{
-        console.log("Producto en Carrito")
-        id = req.query.id
-        console.log(req.body);
-        let productos = productoService.productoCarritoExport(req.body,id)
-        res.send("Finaliza")
+    async (req, res)=>{
+        try{
+            console.log("Producto en Carrito")
+            id = req.query.id
+            console.log(req.body);
+            res.send (await productoService.productoCarritoExport(req.body,id))
+        }
+        catch{
+            res.status(500)
+            res.send("Error al actualizar el producto")
+        }
     }   
 )
 
 app.patch(pathName+"/update",
-    (req, res)=>{
-        console.log("Update producto por administrador")
-        id = req.query.id
-        console.log(req.body);
-        let productos = productoService.UpdateProductoExport(req.body,id)
-        res.send("Finaliza")
+   async (req, res)=>{
+        try{
+            console.log("Update producto por administrador")
+            id = req.query.id
+            console.log(req.body);
+            res.send(productoService.UpdateProductoExport(req.body,id))
+        }
+        catch{
+            res.status(500)
+            res.send("Error al actualizar el producto")
+        }
     }   
 )
 
